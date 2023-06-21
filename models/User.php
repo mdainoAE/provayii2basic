@@ -1,7 +1,7 @@
 <?php
 
 namespace app\models;
-
+// ALtro commento
 class User extends \yii\base\BaseObject implements \yii\web\IdentityInterface
 {
     public $id;
